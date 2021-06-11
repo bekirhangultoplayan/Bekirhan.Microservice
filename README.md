@@ -11,6 +11,11 @@ Configure this file using the data in the table below (or other server), Gmail a
 | Hotmail | smtp.live.com | 587 | Yes |
 
 
+HOST
+``` 
+https://localhost:44340/api/mail/sendmail
+``` 
+
 REQUEST
 ``` 
 {
