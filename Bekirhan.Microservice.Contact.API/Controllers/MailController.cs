@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Bekirhan.Microservice.Contact.API.Controllers
 {
-    [Route("api/[controller]/[action]")]
+    [Route("[controller]/[action]")]
     [ApiController]
     public class MailController : Controller
     {
