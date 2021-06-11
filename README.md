@@ -13,7 +13,7 @@ Configure this file using the data in the table below (or other server), Gmail a
 
 HOST
 ``` 
-https://localhost:44340/api/mail/sendmail
+https://localhost:44340/mail/send
 ``` 
 
 REQUEST
